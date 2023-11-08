@@ -1,17 +1,6 @@
-## Acceptance Criteria
+# wORKDAY PLANNER
 
-```md
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours of 9am&ndash;5pm
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+## Overview
+In this application I implement the use of some common third party API's. Using Jquery as a wrapper, the many built in methods in our Javascript language are even more versatile and simpler when attempting to construct logic on a front end application. Our Bootstrap library assist us in removing the necessity to cook a lot of CSS styles from scratch. DayJS aids in offering simple methods for manipulation to data related to dates & times. The many libraries available in todays world of development certainly offer a vast amount of tools to aid any developer, no matter what their goal seems to be.
+
+## Screenshot
